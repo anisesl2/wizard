@@ -23,7 +23,7 @@
 
 
 <item>
-<title>[B][COLOR yellow]Addons gratuito actualizado 16/10/2020[/COLOR][/B]</title>
+<title>[B][COLOR yellow]Actualizado 22[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
  
 <regex>
@@ -56,6 +56,38 @@ ________________________________________________________________________________
 
 <item>
 <title>[COLOR green]ON [/COLOR] Canales[COLOR blue] TDT[/COLOR] [COLOR green][/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>https://www.tdtchannels.com/lists/tv.m3u</externallink>
+<thumbnail>https://i.imgur.com/QvAtFfK.png</thumbnail>
+<fanart>https://i.imgur.com/QTKsK3k.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR green]ON [/COLOR] Canales[COLOR blue] 1[/COLOR] [COLOR green][/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>https://www.tdtchannels.com/lists/tv.m3u</externallink>
+<thumbnail>https://i.imgur.com/QvAtFfK.png</thumbnail>
+<fanart>https://i.imgur.com/QTKsK3k.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR green]ON [/COLOR] Canales[COLOR blue] 2[/COLOR] [COLOR green][/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>https://www.tdtchannels.com/lists/tv.m3u</externallink>
+<thumbnail>https://i.imgur.com/QvAtFfK.png</thumbnail>
+<fanart>https://i.imgur.com/QTKsK3k.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR green]ON [/COLOR] Canales[COLOR blue] 3[/COLOR] [COLOR green][/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>https://www.tdtchannels.com/lists/tv.m3u</externallink>
+<thumbnail>https://i.imgur.com/QvAtFfK.png</thumbnail>
+<fanart>https://i.imgur.com/QTKsK3k.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR green]ON [/COLOR] Canales[COLOR blue] 4[/COLOR] [COLOR green][/COLOR]</title>
 <link>http://ignoreme</link>
 <externallink>https://www.tdtchannels.com/lists/tv.m3u</externallink>
 <thumbnail>https://i.imgur.com/QvAtFfK.png</thumbnail>
