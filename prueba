@@ -1,23 +1,261 @@
-<item>
-  <title>Daily Sport</title>
-  <link>$doregex[makelist]</link>
-  <regex>
-    <name>makelist</name>
-    <listrepeat><![CDATA[
-    <title>[COLOR cyan][makelist.param1] - [COLOR gold][makelist.param2][/COLOR]</title>
-    <link>$doregex[getpage]|User-Agent=iPad</link>
-    <thumbnail></thumbnail>
-    ]]></listrepeat>
-    <expres><![CDATA[(?s)<tr>\n<td>([^<]+)<.+?<td>(?:<span.+?span>)?([^<]+).+?href=([^>]+)]]></expres>
-    <page>https://dailysport.pw/</page>
-    <setcookie>challenge=BitMitigate.com</setcookie>
-  </regex>
-  <regex>
-    <name>getpage</name>
-    <expres>source:\s*['"]([^'"]+)</expres>
-    <page>https://dailysport.pw/[makelist.param3]</page>
-    <setcookie>challenge=BitMitigate.com</setcookie>
-    <referer>https://dailysport.pw/</referer>
-  </regex>
-</item>
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/geahBI3.png" cat-logo="https://i.imgur.com/geahBI3.png" lista-logo="https://i.imgur.com/YQTKbQJ.png" group-title="TDT" urlType="urlAC",LA 1
+3e3a9b885d3862d00068bdb210b7f14b
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YQTKbQJ.png" group-title="TDT" urlType="urlAC",LA 2
+5e006b0602cb93d86fc9d6bd30a986a2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3z7u04j.png" group-title="TDT" urlType="urlAC",ANTENA 3
+d1d40ed9ad29334c03ac4100c1119d87
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TgQiNtU.png" group-title="TDT" urlType="urlAC",CUATRO
+38e93b27d9c61ccbfccd4425f78ba728
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cCOwJYf.png" group-title="TDT" urlType="urlAC",TELECINCO
+925019d798672f426f5cd693544a70f3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HHYwKSE.png" group-title="TDT" urlType="urlAC",LA SEXTA
+41da6b4d0946712c51b4654fa7ca9fae
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CYPsKOS.png" group-title="TDT" urlType="urlAC",DMAX
+7a0af3adf6783c6f0abbd5a80d756c29
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMweOit.png" group-title="TDT" urlType="urlAC",NEOX
+0eab0dfbcc2f08ea84eb086690377729
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fEgQF0Z.png" group-title="TDT" urlType="urlAC",NOVA
+fce957b53b89c1cf1eeb3d573defd242
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BtPDLdY.png" group-title="TDT" urlType="urlAC",ENERGY
+9a174c43d3a817cd0c7d204b2f77147f
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1EPTOoh.png" group-title="TDT" urlType="urlAC",CLAN
+37324b98659dea9055063eb8ebd96df0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JugkNwf.png" group-title="TDT" urlType="urlAC",DISNEY CHANNEL
+2a4fc593dcdb752222740ee3de9ef63e
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uTKQ6Ro.png" group-title="TDT" urlType="urlAC",FDF
+542a3d482a85cfb4ea335185c2dca143
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i9gYW4B.png" group-title="TDT" urlType="urlAC",BOING
+af0c57234844a3dee7ac16e7085d88dc
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZSM4WZk.png" group-title="TDT" urlType="urlAC",DIVINITY
+5945c6322ed2cc9972c41fd5097dae26
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FwpWIAj.png" group-title="TDT" urlType="urlAC",MEGA
+692bbd6abf27e167cec8e906d592c4cd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mXvkpvS.png" group-title="TDT" urlType="urlAC",ATRESERIES
+9e611965e6b646d3778aa618c0eb1c54
+#EXTINF:-1 tvg-logo="https://i.imgur.com/arML3rN.png" group-title="TDT" urlType="urlAC",PARAMOUNT CHANNEL
+8fa3214b38605cce847fd8c6c14c8890
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hb48YK8.png" group-title="TDT" urlType="urlAC",TDP
+32f1fa84dece4599fad2fb7ed0e9e3b7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wcVjH2l.png" group-title="TDT" urlType="urlAC",TEN
+78cbc15714306f9bf9edb44b67905362
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lm5s5kr.png" group-title="TDT" urlType="urlAC",DKISS
+c2eabba01fa1f24d8eb58a16884d27ea
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f7pkU28.png" group-title="TDT" urlType="urlAC",BEMAD
+b8d74ece0f757eed1925ab6effc4e2db
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eBsD8Mw.png" group-title="TDT" urlType="urlAC",REAL MADRID
+dc6efcedfc882b48deafbeec510a5f69
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2138A5G.png" group-title="TDT" urlType="urlAC",GOL
+e5e5f025b7c51384551d6610818e9479
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hDiKAzj.png" cat-logo="https://i.imgur.com/hDiKAzj.png" group-title="SERIES" urlType="urlAC",MOVISTAR SERIES
+56e37b503b21dd2f79187a61ca57726b
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eoIDJIk.png" group-title="SERIES" urlType="urlAC",MOVISTAR SERIESMANIA
+57527ce4618ffb24627d1fe5556bc27d
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hDiKAzj.png" group-title="SERIES" urlType="urlAC",FOX
+554b9535288d8de3294990fbe5a50f55
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cdWGIux.png" group-title="SERIES" urlType="urlAC",AXN
+e95000312c770edae76a2e81370ce827
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y6plYlH.png" group-title="SERIES" urlType="urlAC",TNT
+31e049822af9643db5eb1df6fdb8a761
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2Yyw2H.png" group-title="SERIES" urlType="urlAC",COMEDY CENTRAL
+40a941efe28b7f0dddb41b0c281ab5b9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iGQPpw2.png" group-title="SERIES" urlType="urlAC",CALLE 13
+872d5f09653ef9ad3d888e27279703e7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c4O6G4k.png" group-title="SERIES" urlType="urlAC",COSMOS
+7a962b512063e90ec5166006cc88cc38
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QJOVLP7.png" group-title="SERIES" urlType="urlAC",AMC
+b433c0f707fb51d2cc0ba715c7ad9cb5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AXlK1n5.png" group-title="SERIES" urlType="urlAC",FOX LIFE
+39dfbf1df63589d18a34c8dd782fd068
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0N6BKsC.png" group-title="SERIES" urlType="urlAC",AXN WHITE
+3478ff8963b05a8c0fde1771b397ecff
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jwe0BCW.png" group-title="SERIES" urlType="urlAC",SYFY
+dff3edd5af4867b5b883b3c082b49efc
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ETIBT3W.png" group-title="SERIES" urlType="urlAC",MTV
+330dc817cf4681e18cdf44f92a1d8a9f
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hc0a1v9.jpg" group-title="SERIES" urlType="urlAC",XTRM
+a38611c567b28b7f2bc12a4fb44d4f4a
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mdf9S91.png" group-title="SERIES" urlType="urlAC",DARK
+7b7a18540b735e88113be4e96fb5a5fc
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XJ0uNG1.jpg" group-title="SERIES" urlType="urlAC",SOMOS OFF
+75aebf5a968dd20180b54b248d8c58fd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VmQGVSO.png" group-title="SERIES" urlType="urlAC",SUNDANCE OFF
+2ab2d5eecc1d15bf55d6e3f159150a8a
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AAzZvl9.png" cat-logo="https://i.imgur.com/AAzZvl9.png" group-title="CINE" urlType="urlAC",#0
+d48d15463670d2a10d8c2c245b38706b
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sStm9hp.png" group-title="CINE" urlType="urlAC",MOVISTAR ESTRENOS
+39a82b282501c46ee149481778510c6d
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ymdfdBb.jpg" group-title="CINE" urlType="urlAC",DISNEY+
+6c40ddab3bcf1b9a1b3822bb300bcff7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8chaQur.png" group-title="CINE" urlType="urlAC",MOVISTAR CINEDOC&ROLL
+c820e9d92deb56e860c08e42d5748e66
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SsZDgRW.png" group-title="CINE" urlType="urlAC",MOVISTAR ACCION
+fa89e1493f52400fc1fc6d0461312358
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ox5nowp.png" group-title="CINE" urlType="urlAC",MOVISTAR COMEDIA
+bf97de204ef6bc1a8360a1c4a5fae9ad
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z6tlg4E.png" group-title="CINE" urlType="urlAC",MOVISTAR DRAMA
+35897607e29fe7e1cf763781a8d46c68
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rgH6fdR.png" group-title="CINE" urlType="urlAC",MOVISTAR CIÑE Ñ
+f74f0f148e3dc2081cf170ad55af5594
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rZJx7OT.png" group-title="CINE"  urlType="urlAC",CANAL HOLLYWOOD
+ec8ba02ba821441e31d65f56aaf4fa48
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4eHSyOP.png" group-title="CINE" urlType="urlAC",TMC
+d466b50f77a39ca9cb6907c017596f7d
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9O7WIbU.png" cat-logo="https://i.imgur.com/9O7WIbU.png" group-title="FUTBOL" urlType="urlAC",MOVISTAR LIGA DE CAMPEONES
+576c688df484715f880892612e4cb46f
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DSXYuaB.png" group-title="FUTBOL" urlType="urlAC",MOVISTAR LIGA DE CAMPEONES 1
+7ee6c883dafd5ed582300f3c43427f46
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vyp0oic.png" group-title="FUTBOL" urlType="urlAC",MOVISTAR LALIGA
+7ff54cb89584c5a65961d9b5ccb12856
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fpuNYMo.png" group-title="FUTBOL" urlType="urlAC",MOVISTAR LALIGA 1
+6dece20610f6ad85671c396d0b6892a2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b5hhG4K.png" group-title="FUTBOL" urlType="urlAC",MOVISTAR LALIGA 2
+9d417e7633ae8e1a7c3ad1aebb495135
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zV1rUkZ.png" group-title="FUTBOL" urlType="urlAC",MOVISTAR LALIGA 3
+d15a36a6f57306efa30f4be1718e3797
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sutwbUP.png" group-title="FUTBOL" urlType="urlAC",LALIGA TV
+93e77796aac1c911f6507d40542a1d96
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wiXfYfp.png" group-title="FUTBOL" urlType="urlAC",#VAMOS
+b8780f4e9c3a5e8b7fe13b7056d851a1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V69cpvv.jpg" group-title="FUTBOL" urlType="urlAC",DIRECTV SPORTS
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eDbDWHH.jpg" group-title="FUTBOL" urlType="urlAC",BEIN SPORT Ñ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Bb1Yaf.jpg" group-title="FUTBOL" urlType="urlAC",ESPN
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tGUEywY.jpg" group-title="FUTBOL" urlType="urlAC",ESPN 2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uvtTuSR.jpg" group-title="FUTBOL" urlType="urlAC",ESPN 3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/drdF953.png" cat-logo="https://i.imgur.com/drdF953.png" group-title="DEPORTES" urlType="urlAC",MOVISTAR DEPORTES
+d2357873610579f636e556571d806b5d
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yhR5CWV.png" group-title="DEPORTES" urlType="urlAC",MOVISTAR FORMULA 1
+f04b45cb08f509a3689cf49e411c2cc4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F2Zz1xi.png" group-title="DEPORTES" urlType="urlAC",MOVISTAR GOLF
+38678f182782c6757c3a4959a9e2d3df
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MSf2lJ4.png" group-title="DEPORTES" urlType="urlAC",EUROSPORT 1
+48fd219d685f8c5111080bc4f47c9dc4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3vwOmJF.png" group-title="DEPORTES" urlType="urlAC",EUROSPORT 2
+3df2ad8a4c47afcd2dd13d65da172a4a
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3AwxM1v.jpg" group-title="DEPORTES" urlType="urlAC",CAZAVISION
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BoEY5Qx.png" group-title="DEPORTES" urlType="urlAC",CAZA Y PESCA
+b25ee7387805583589037a37b3e51432
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J9zSTOr.png" group-title="DEPORTES" urlType="urlAC",TOROS TV
+47c321f20e9a76fc40b9c3b40d92d7b9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5nRpuyz.png" group-title="DEPORTES" urlType="urlAC",IBERALIA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3gCGcqh.png" group-title="DEPORTES" urlType="urlAC",DAZN EVENTOS 1
+2214c7e52aff42117523354dff52a39e
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dUstCpz.png" group-title="DEPORTES" urlType="urlAC",DAZN EVENTOS 2
+fc14507df2e5311d04247f4b0e71cd26
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pJ3D6uG.png" group-title="DEPORTES" urlType="urlAC",DAZN EVENTOS 3
+89453dfd00533642afd16bb5280dcd0e
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TFBb0fl.png" group-title="DEPORTES" urlType="urlAC",DAZN EVENTOS 4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7VpE3tz.png" group-title="DEPORTES" urlType="urlAC",DAZN EVENTOS 5
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WAd6cZ3.png" group-title="DEPORTES" urlType="urlAC",DAZN EVENTOS 6
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mnSSEKU.jpg" group-title="DEPORTES" urlType="urlAC",TYC SPORTS
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F0sfhl7.jpg" group-title="DEPORTES" urlType="urlAC",WIN SPORTS
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gEoKYNi.jpg" group-title="DEPORTES" urlType="urlAC",FOX SPORTS
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FxNqpMH.jpg" group-title="DEPORTES" urlType="urlAC",FOX SPORTS 1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DFvFKZC.jpg" group-title="DEPORTES" urlType="urlAC",FOX SPORTS 2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OR3uWQR.jpg" group-title="DEPORTES" urlType="urlAC",FOX SPORTS 3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1nN0hML.jpg" group-title="DEPORTES" urlType="urlAC",CDF PREMIUM
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JUL217T.png" cat-logo="https://i.imgur.com/JUL217T.png" group-title="DOCUMENTALES" urlType="urlAC",NATIONAL GEOGRAPHIC CHANNEL
+c0f70da87ddb406fd65d345bdb14e2f2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IOiqDzM.png" group-title="DOCUMENTALES" urlType="urlAC",NAT GEO WILD
+34237f87fe8ab69b2a8631001179b91a
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qK949zS.png" group-title="DOCUMENTALES" urlType="urlAC",HISTORIA
+1924d21e7da340170c6396bddced52dc
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HQuo8Br.png" group-title="DOCUMENTALES" urlType="urlAC",DISCOVERY CHANNEL
+f499b64c9b95ba0a29f2e79590b5ca58
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VqUqbOs.png" group-title="DOCUMENTALES" urlType="urlAC",ODISEA
+296d3420418ca939cd340585930b80d5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wQ6uR5W.png" group-title="DOCUMENTALES" urlType="urlAC",VIAJAR
+16b4e71f32025a7483f9114e2d731c21
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o7CY5OC.png" group-title="DOCUMENTALES" urlType="urlAC",CRIMEN INVESTIGACION
+92859bdc5b86b18b19350a3f73b19e8a
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rIrjJru.png" group-title="DOCUMENTALES" urlType="urlAC",CANAL COCINA
+1a4b9918181e0081a8c24de75c42b77e
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KXByVox.png" group-title="DOCUMENTALES" urlType="urlAC",CANAL DECASA
+a921ece322ec361180d32d7d7bc00805
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l2aQ3nK.png" cat-logo="https://i.imgur.com/l2aQ3nK.png" group-title="NIÑOS PEQUES" urlType="urlAC",BABY TV
+be7174f4973e461fe3f9dd0964a653e0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fTKQNLy.png" group-title="NIÑOS PEQUES" urlType="urlAC",CANAL PANDA
+45e4657e5a804eb33108ccb57159cc44
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8TUwrOr.png" group-title="NIÑOS PEQUES" urlType="urlAC",DISNEY JUNIOR
+27c20ce8ee501ec93122eef44cbbaaee
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vIJ03aK.jpg" group-title="NIÑOS PEQUES" urlType="urlAC",NICK JR
+427cf60acc774f0c36c8423ce3a29abf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCVEMOQ.png" group-title="NIÑOS PEQUES" urlType="urlAC",NICKELODEON
+90cfbf4505849a3e1cf4eced103d9c66
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JugkNwf.png" group-title="NIÑOS PEQUES" urlType="urlAC",DISNEY CHANNEL
+2a4fc593dcdb752222740ee3de9ef63e
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i9gYW4B.png" group-title="NIÑOS PEQUES" urlType="urlAC",BOING
+af0c57234844a3dee7ac16e7085d88dc
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1EPTOoh.png" group-title="NIÑOS PEQUES" urlType="urlAC",CLAN 
+37324b98659dea9055063eb8ebd96df0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4TybtYY.jpg" cat-logo="https://i.imgur.com/4TybtYY.jpg" group-title="VIP +18" urlType="urlAC",PRIVATE
+4a337b26cdddf3a4e6419be066505e13
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lcoFA9m.jpg" group-title="VIP +18" urlType="urlAC",DORCEL
+94bee5bc9d0525af7a0b0d6c9668b07a
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x34jNZe.png" group-title="VIP +18" urlType="urlAC",PENTHOUSE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z9b99jY.png" group-title="VIP +18" urlType="urlAC",REDLIGHT
+eb83a3fb3809b2a1d392962c45f19db7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MMEK1qP.png" group-title="VIP +18" urlType="urlAC",HOT
+7123b7e793da6f9ade7b9b9e6068ecd6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qZEdzzj.png" group-title="VIP +18" urlType="urlAC",HUSTLER
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5y8xpR9.png" group-title="VIP +18" urlType="urlAC",VENUS
+997286a90f0cdecd926e6b09dec65a9d
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gkonmv9.png" group-title="VIP +18" urlType="urlAC",DUSK
+7fcf1def447a625f8de6f4dfc318d095
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MJBtR7S.png" group-title="VIP +18" urlType="urlAC",BRAZZER
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuzOdoC.jpg" cat-logo="https://i.imgur.com/tuzOdoC.jpg" group-title="LATINOS" urlType="urlAC",FOX PREMIUM ACTION
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nPiTXK9.jpg" group-title="LATINOS" urlType="urlAC",FOX PREMIUM SERIES
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OFJUSVJ.jpg" group-title="LATINOS" urlType="urlAC",FOX PREMIUM MOVIES
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GYUjgzM.jpg" group-title="LATINOS" urlType="urlAC",FOX PREMIUM COMEDY
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YEV80Np.jpg" group-title="LATINOS" urlType="urlAC",FOX PREMIUM FAMILY
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eVSsQX5.jpg" group-title="LATINOS" urlType="urlAC",FOX PREMIUM CLASSIC
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PHihHsz.jpg" group-title="LATINOS" urlType="urlAC",CINEMAX
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MFBjDrn.jpg" group-title="LATINOS" urlType="urlAC",FXM
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v0I8LiH.jpg" group-title="LATINOS" urlType="urlAC",TELEMUNDO
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pJsAaYN.jpg" group-title="LATINOS" urlType="urlAC",WARNER TV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Npm11o.jpg" group-title="LATINOS" urlType="urlAC",UNIVERSAL TV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YS10IW7.jpg" group-title="LATINOS" urlType="urlAC",UNIVISION
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L5XS8P0.jpg" group-title="LATINOS" urlType="urlAC",SONY CHANNEL 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qqcjzd0.jpg" group-title="LATINOS" urlType="urlAC",TELEVISA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uwPhzj6.jpg" group-title="LATINOS" urlType="urlAC",TLNOVELAS
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o7KnmqV.jpg" group-title="LATINOS" urlType="urlAC",HBO
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o7KnmqV.jpg" group-title="LATINOS" urlType="urlAC",HBO 2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WYJiruT.jpg" group-title="LATINOS" urlType="urlAC",SPACE
 
