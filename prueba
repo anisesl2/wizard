@@ -1,261 +1,481 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/geahBI3.png" cat-logo="https://i.imgur.com/geahBI3.png" lista-logo="https://i.imgur.com/YQTKbQJ.png" group-title="TDT" urlType="urlAC",LA 1
-3e3a9b885d3862d00068bdb210b7f14b
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YQTKbQJ.png" group-title="TDT" urlType="urlAC",LA 2
-5e006b0602cb93d86fc9d6bd30a986a2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3z7u04j.png" group-title="TDT" urlType="urlAC",ANTENA 3
-d1d40ed9ad29334c03ac4100c1119d87
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TgQiNtU.png" group-title="TDT" urlType="urlAC",CUATRO
-38e93b27d9c61ccbfccd4425f78ba728
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cCOwJYf.png" group-title="TDT" urlType="urlAC",TELECINCO
-925019d798672f426f5cd693544a70f3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HHYwKSE.png" group-title="TDT" urlType="urlAC",LA SEXTA
-41da6b4d0946712c51b4654fa7ca9fae
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CYPsKOS.png" group-title="TDT" urlType="urlAC",DMAX
-7a0af3adf6783c6f0abbd5a80d756c29
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMweOit.png" group-title="TDT" urlType="urlAC",NEOX
-0eab0dfbcc2f08ea84eb086690377729
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fEgQF0Z.png" group-title="TDT" urlType="urlAC",NOVA
-fce957b53b89c1cf1eeb3d573defd242
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BtPDLdY.png" group-title="TDT" urlType="urlAC",ENERGY
-9a174c43d3a817cd0c7d204b2f77147f
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1EPTOoh.png" group-title="TDT" urlType="urlAC",CLAN
-37324b98659dea9055063eb8ebd96df0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JugkNwf.png" group-title="TDT" urlType="urlAC",DISNEY CHANNEL
-2a4fc593dcdb752222740ee3de9ef63e
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uTKQ6Ro.png" group-title="TDT" urlType="urlAC",FDF
-542a3d482a85cfb4ea335185c2dca143
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i9gYW4B.png" group-title="TDT" urlType="urlAC",BOING
-af0c57234844a3dee7ac16e7085d88dc
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZSM4WZk.png" group-title="TDT" urlType="urlAC",DIVINITY
-5945c6322ed2cc9972c41fd5097dae26
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FwpWIAj.png" group-title="TDT" urlType="urlAC",MEGA
-692bbd6abf27e167cec8e906d592c4cd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mXvkpvS.png" group-title="TDT" urlType="urlAC",ATRESERIES
-9e611965e6b646d3778aa618c0eb1c54
-#EXTINF:-1 tvg-logo="https://i.imgur.com/arML3rN.png" group-title="TDT" urlType="urlAC",PARAMOUNT CHANNEL
-8fa3214b38605cce847fd8c6c14c8890
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hb48YK8.png" group-title="TDT" urlType="urlAC",TDP
-32f1fa84dece4599fad2fb7ed0e9e3b7
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wcVjH2l.png" group-title="TDT" urlType="urlAC",TEN
-78cbc15714306f9bf9edb44b67905362
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lm5s5kr.png" group-title="TDT" urlType="urlAC",DKISS
-c2eabba01fa1f24d8eb58a16884d27ea
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f7pkU28.png" group-title="TDT" urlType="urlAC",BEMAD
-b8d74ece0f757eed1925ab6effc4e2db
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eBsD8Mw.png" group-title="TDT" urlType="urlAC",REAL MADRID
-dc6efcedfc882b48deafbeec510a5f69
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2138A5G.png" group-title="TDT" urlType="urlAC",GOL
-e5e5f025b7c51384551d6610818e9479
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hDiKAzj.png" cat-logo="https://i.imgur.com/hDiKAzj.png" group-title="SERIES" urlType="urlAC",MOVISTAR SERIES
-56e37b503b21dd2f79187a61ca57726b
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eoIDJIk.png" group-title="SERIES" urlType="urlAC",MOVISTAR SERIESMANIA
-57527ce4618ffb24627d1fe5556bc27d
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hDiKAzj.png" group-title="SERIES" urlType="urlAC",FOX
-554b9535288d8de3294990fbe5a50f55
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cdWGIux.png" group-title="SERIES" urlType="urlAC",AXN
-e95000312c770edae76a2e81370ce827
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y6plYlH.png" group-title="SERIES" urlType="urlAC",TNT
-31e049822af9643db5eb1df6fdb8a761
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2Yyw2H.png" group-title="SERIES" urlType="urlAC",COMEDY CENTRAL
-40a941efe28b7f0dddb41b0c281ab5b9
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iGQPpw2.png" group-title="SERIES" urlType="urlAC",CALLE 13
-872d5f09653ef9ad3d888e27279703e7
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c4O6G4k.png" group-title="SERIES" urlType="urlAC",COSMOS
-7a962b512063e90ec5166006cc88cc38
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QJOVLP7.png" group-title="SERIES" urlType="urlAC",AMC
-b433c0f707fb51d2cc0ba715c7ad9cb5
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AXlK1n5.png" group-title="SERIES" urlType="urlAC",FOX LIFE
-39dfbf1df63589d18a34c8dd782fd068
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0N6BKsC.png" group-title="SERIES" urlType="urlAC",AXN WHITE
-3478ff8963b05a8c0fde1771b397ecff
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jwe0BCW.png" group-title="SERIES" urlType="urlAC",SYFY
-dff3edd5af4867b5b883b3c082b49efc
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ETIBT3W.png" group-title="SERIES" urlType="urlAC",MTV
-330dc817cf4681e18cdf44f92a1d8a9f
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hc0a1v9.jpg" group-title="SERIES" urlType="urlAC",XTRM
-a38611c567b28b7f2bc12a4fb44d4f4a
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mdf9S91.png" group-title="SERIES" urlType="urlAC",DARK
-7b7a18540b735e88113be4e96fb5a5fc
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XJ0uNG1.jpg" group-title="SERIES" urlType="urlAC",SOMOS OFF
-75aebf5a968dd20180b54b248d8c58fd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VmQGVSO.png" group-title="SERIES" urlType="urlAC",SUNDANCE OFF
-2ab2d5eecc1d15bf55d6e3f159150a8a
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AAzZvl9.png" cat-logo="https://i.imgur.com/AAzZvl9.png" group-title="CINE" urlType="urlAC",#0
-d48d15463670d2a10d8c2c245b38706b
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sStm9hp.png" group-title="CINE" urlType="urlAC",MOVISTAR ESTRENOS
-39a82b282501c46ee149481778510c6d
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ymdfdBb.jpg" group-title="CINE" urlType="urlAC",DISNEY+
-6c40ddab3bcf1b9a1b3822bb300bcff7
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8chaQur.png" group-title="CINE" urlType="urlAC",MOVISTAR CINEDOC&ROLL
-c820e9d92deb56e860c08e42d5748e66
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SsZDgRW.png" group-title="CINE" urlType="urlAC",MOVISTAR ACCION
-fa89e1493f52400fc1fc6d0461312358
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ox5nowp.png" group-title="CINE" urlType="urlAC",MOVISTAR COMEDIA
-bf97de204ef6bc1a8360a1c4a5fae9ad
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z6tlg4E.png" group-title="CINE" urlType="urlAC",MOVISTAR DRAMA
-35897607e29fe7e1cf763781a8d46c68
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rgH6fdR.png" group-title="CINE" urlType="urlAC",MOVISTAR CIÑE Ñ
-f74f0f148e3dc2081cf170ad55af5594
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rZJx7OT.png" group-title="CINE"  urlType="urlAC",CANAL HOLLYWOOD
-ec8ba02ba821441e31d65f56aaf4fa48
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4eHSyOP.png" group-title="CINE" urlType="urlAC",TMC
-d466b50f77a39ca9cb6907c017596f7d
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9O7WIbU.png" cat-logo="https://i.imgur.com/9O7WIbU.png" group-title="FUTBOL" urlType="urlAC",MOVISTAR LIGA DE CAMPEONES
-576c688df484715f880892612e4cb46f
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DSXYuaB.png" group-title="FUTBOL" urlType="urlAC",MOVISTAR LIGA DE CAMPEONES 1
-7ee6c883dafd5ed582300f3c43427f46
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vyp0oic.png" group-title="FUTBOL" urlType="urlAC",MOVISTAR LALIGA
-7ff54cb89584c5a65961d9b5ccb12856
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fpuNYMo.png" group-title="FUTBOL" urlType="urlAC",MOVISTAR LALIGA 1
-6dece20610f6ad85671c396d0b6892a2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b5hhG4K.png" group-title="FUTBOL" urlType="urlAC",MOVISTAR LALIGA 2
-9d417e7633ae8e1a7c3ad1aebb495135
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zV1rUkZ.png" group-title="FUTBOL" urlType="urlAC",MOVISTAR LALIGA 3
-d15a36a6f57306efa30f4be1718e3797
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sutwbUP.png" group-title="FUTBOL" urlType="urlAC",LALIGA TV
-93e77796aac1c911f6507d40542a1d96
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wiXfYfp.png" group-title="FUTBOL" urlType="urlAC",#VAMOS
-b8780f4e9c3a5e8b7fe13b7056d851a1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V69cpvv.jpg" group-title="FUTBOL" urlType="urlAC",DIRECTV SPORTS
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eDbDWHH.jpg" group-title="FUTBOL" urlType="urlAC",BEIN SPORT Ñ
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9Bb1Yaf.jpg" group-title="FUTBOL" urlType="urlAC",ESPN
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tGUEywY.jpg" group-title="FUTBOL" urlType="urlAC",ESPN 2
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uvtTuSR.jpg" group-title="FUTBOL" urlType="urlAC",ESPN 3
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/drdF953.png" cat-logo="https://i.imgur.com/drdF953.png" group-title="DEPORTES" urlType="urlAC",MOVISTAR DEPORTES
-d2357873610579f636e556571d806b5d
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yhR5CWV.png" group-title="DEPORTES" urlType="urlAC",MOVISTAR FORMULA 1
-f04b45cb08f509a3689cf49e411c2cc4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F2Zz1xi.png" group-title="DEPORTES" urlType="urlAC",MOVISTAR GOLF
-38678f182782c6757c3a4959a9e2d3df
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MSf2lJ4.png" group-title="DEPORTES" urlType="urlAC",EUROSPORT 1
-48fd219d685f8c5111080bc4f47c9dc4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3vwOmJF.png" group-title="DEPORTES" urlType="urlAC",EUROSPORT 2
-3df2ad8a4c47afcd2dd13d65da172a4a
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3AwxM1v.jpg" group-title="DEPORTES" urlType="urlAC",CAZAVISION
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BoEY5Qx.png" group-title="DEPORTES" urlType="urlAC",CAZA Y PESCA
-b25ee7387805583589037a37b3e51432
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J9zSTOr.png" group-title="DEPORTES" urlType="urlAC",TOROS TV
-47c321f20e9a76fc40b9c3b40d92d7b9
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5nRpuyz.png" group-title="DEPORTES" urlType="urlAC",IBERALIA
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3gCGcqh.png" group-title="DEPORTES" urlType="urlAC",DAZN EVENTOS 1
-2214c7e52aff42117523354dff52a39e
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dUstCpz.png" group-title="DEPORTES" urlType="urlAC",DAZN EVENTOS 2
-fc14507df2e5311d04247f4b0e71cd26
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pJ3D6uG.png" group-title="DEPORTES" urlType="urlAC",DAZN EVENTOS 3
-89453dfd00533642afd16bb5280dcd0e
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TFBb0fl.png" group-title="DEPORTES" urlType="urlAC",DAZN EVENTOS 4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7VpE3tz.png" group-title="DEPORTES" urlType="urlAC",DAZN EVENTOS 5
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WAd6cZ3.png" group-title="DEPORTES" urlType="urlAC",DAZN EVENTOS 6
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mnSSEKU.jpg" group-title="DEPORTES" urlType="urlAC",TYC SPORTS
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F0sfhl7.jpg" group-title="DEPORTES" urlType="urlAC",WIN SPORTS
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gEoKYNi.jpg" group-title="DEPORTES" urlType="urlAC",FOX SPORTS
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FxNqpMH.jpg" group-title="DEPORTES" urlType="urlAC",FOX SPORTS 1
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DFvFKZC.jpg" group-title="DEPORTES" urlType="urlAC",FOX SPORTS 2
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OR3uWQR.jpg" group-title="DEPORTES" urlType="urlAC",FOX SPORTS 3
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1nN0hML.jpg" group-title="DEPORTES" urlType="urlAC",CDF PREMIUM
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JUL217T.png" cat-logo="https://i.imgur.com/JUL217T.png" group-title="DOCUMENTALES" urlType="urlAC",NATIONAL GEOGRAPHIC CHANNEL
-c0f70da87ddb406fd65d345bdb14e2f2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IOiqDzM.png" group-title="DOCUMENTALES" urlType="urlAC",NAT GEO WILD
-34237f87fe8ab69b2a8631001179b91a
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qK949zS.png" group-title="DOCUMENTALES" urlType="urlAC",HISTORIA
-1924d21e7da340170c6396bddced52dc
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HQuo8Br.png" group-title="DOCUMENTALES" urlType="urlAC",DISCOVERY CHANNEL
-f499b64c9b95ba0a29f2e79590b5ca58
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VqUqbOs.png" group-title="DOCUMENTALES" urlType="urlAC",ODISEA
-296d3420418ca939cd340585930b80d5
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wQ6uR5W.png" group-title="DOCUMENTALES" urlType="urlAC",VIAJAR
-16b4e71f32025a7483f9114e2d731c21
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o7CY5OC.png" group-title="DOCUMENTALES" urlType="urlAC",CRIMEN INVESTIGACION
-92859bdc5b86b18b19350a3f73b19e8a
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rIrjJru.png" group-title="DOCUMENTALES" urlType="urlAC",CANAL COCINA
-1a4b9918181e0081a8c24de75c42b77e
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KXByVox.png" group-title="DOCUMENTALES" urlType="urlAC",CANAL DECASA
-a921ece322ec361180d32d7d7bc00805
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l2aQ3nK.png" cat-logo="https://i.imgur.com/l2aQ3nK.png" group-title="NIÑOS PEQUES" urlType="urlAC",BABY TV
-be7174f4973e461fe3f9dd0964a653e0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fTKQNLy.png" group-title="NIÑOS PEQUES" urlType="urlAC",CANAL PANDA
-45e4657e5a804eb33108ccb57159cc44
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8TUwrOr.png" group-title="NIÑOS PEQUES" urlType="urlAC",DISNEY JUNIOR
-27c20ce8ee501ec93122eef44cbbaaee
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vIJ03aK.jpg" group-title="NIÑOS PEQUES" urlType="urlAC",NICK JR
-427cf60acc774f0c36c8423ce3a29abf
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCVEMOQ.png" group-title="NIÑOS PEQUES" urlType="urlAC",NICKELODEON
-90cfbf4505849a3e1cf4eced103d9c66
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JugkNwf.png" group-title="NIÑOS PEQUES" urlType="urlAC",DISNEY CHANNEL
-2a4fc593dcdb752222740ee3de9ef63e
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i9gYW4B.png" group-title="NIÑOS PEQUES" urlType="urlAC",BOING
-af0c57234844a3dee7ac16e7085d88dc
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1EPTOoh.png" group-title="NIÑOS PEQUES" urlType="urlAC",CLAN 
-37324b98659dea9055063eb8ebd96df0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4TybtYY.jpg" cat-logo="https://i.imgur.com/4TybtYY.jpg" group-title="VIP +18" urlType="urlAC",PRIVATE
-4a337b26cdddf3a4e6419be066505e13
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lcoFA9m.jpg" group-title="VIP +18" urlType="urlAC",DORCEL
-94bee5bc9d0525af7a0b0d6c9668b07a
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x34jNZe.png" group-title="VIP +18" urlType="urlAC",PENTHOUSE
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z9b99jY.png" group-title="VIP +18" urlType="urlAC",REDLIGHT
-eb83a3fb3809b2a1d392962c45f19db7
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MMEK1qP.png" group-title="VIP +18" urlType="urlAC",HOT
-7123b7e793da6f9ade7b9b9e6068ecd6
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qZEdzzj.png" group-title="VIP +18" urlType="urlAC",HUSTLER
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5y8xpR9.png" group-title="VIP +18" urlType="urlAC",VENUS
-997286a90f0cdecd926e6b09dec65a9d
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gkonmv9.png" group-title="VIP +18" urlType="urlAC",DUSK
-7fcf1def447a625f8de6f4dfc318d095
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJBtR7S.png" group-title="VIP +18" urlType="urlAC",BRAZZER
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tuzOdoC.jpg" cat-logo="https://i.imgur.com/tuzOdoC.jpg" group-title="LATINOS" urlType="urlAC",FOX PREMIUM ACTION
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nPiTXK9.jpg" group-title="LATINOS" urlType="urlAC",FOX PREMIUM SERIES
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OFJUSVJ.jpg" group-title="LATINOS" urlType="urlAC",FOX PREMIUM MOVIES
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GYUjgzM.jpg" group-title="LATINOS" urlType="urlAC",FOX PREMIUM COMEDY
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YEV80Np.jpg" group-title="LATINOS" urlType="urlAC",FOX PREMIUM FAMILY
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eVSsQX5.jpg" group-title="LATINOS" urlType="urlAC",FOX PREMIUM CLASSIC
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PHihHsz.jpg" group-title="LATINOS" urlType="urlAC",CINEMAX
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MFBjDrn.jpg" group-title="LATINOS" urlType="urlAC",FXM
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v0I8LiH.jpg" group-title="LATINOS" urlType="urlAC",TELEMUNDO
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pJsAaYN.jpg" group-title="LATINOS" urlType="urlAC",WARNER TV
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4Npm11o.jpg" group-title="LATINOS" urlType="urlAC",UNIVERSAL TV
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YS10IW7.jpg" group-title="LATINOS" urlType="urlAC",UNIVISION
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L5XS8P0.jpg" group-title="LATINOS" urlType="urlAC",SONY CHANNEL 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qqcjzd0.jpg" group-title="LATINOS" urlType="urlAC",TELEVISA
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uwPhzj6.jpg" group-title="LATINOS" urlType="urlAC",TLNOVELAS
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o7KnmqV.jpg" group-title="LATINOS" urlType="urlAC",HBO
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o7KnmqV.jpg" group-title="LATINOS" urlType="urlAC",HBO 2
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WYJiruT.jpg" group-title="LATINOS" urlType="urlAC",SPACE
-
+#EXTINF:-1 tvg-id="" tvg-name="LA 1 FHD 1080" tvg-logo="" group-title="ESPAÑA",LA 1 FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/2
+#EXTINF:-1 tvg-id="" tvg-name="LA 1 HD 720" tvg-logo="" group-title="ESPAÑA",LA 1 HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/3
+#EXTINF:-1 tvg-id="" tvg-name="LA 1 SD" tvg-logo="" group-title="ESPAÑA",LA 1 SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/4
+#EXTINF:-1 tvg-id="" tvg-name="LA 2 SD" tvg-logo="" group-title="ESPAÑA",LA 2 SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/6
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 FHD 1080" tvg-logo="" group-title="ESPAÑA",ANTENA 3 FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/7
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 HD 720" tvg-logo="" group-title="ESPAÑA",ANTENA 3 HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/8
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 SD" tvg-logo="" group-title="ESPAÑA",ANTENA 3 SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/9
+#EXTINF:-1 tvg-id="" tvg-name="CUATRO FHD 1080" tvg-logo="" group-title="ESPAÑA",CUATRO FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/10
+#EXTINF:-1 tvg-id="" tvg-name="CUATRO HD 720" tvg-logo="" group-title="ESPAÑA",CUATRO HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/11
+#EXTINF:-1 tvg-id="" tvg-name="CUATRO SD" tvg-logo="" group-title="ESPAÑA",CUATRO SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/12
+#EXTINF:-1 tvg-id="" tvg-name="TELECINCO FHD 1080" tvg-logo="" group-title="ESPAÑA",TELECINCO FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/13
+#EXTINF:-1 tvg-id="" tvg-name="TELECINCO HD 720" tvg-logo="" group-title="ESPAÑA",TELECINCO HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/14
+#EXTINF:-1 tvg-id="" tvg-name="TELECINCO SD" tvg-logo="" group-title="ESPAÑA",TELECINCO SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/15
+#EXTINF:-1 tvg-id="" tvg-name="LA SEXTA FHD 1080" tvg-logo="" group-title="ESPAÑA",LA SEXTA FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/16
+#EXTINF:-1 tvg-id="" tvg-name="LA SEXTA HD 720" tvg-logo="" group-title="ESPAÑA",LA SEXTA HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/17
+#EXTINF:-1 tvg-id="" tvg-name="LA SEXTA SD" tvg-logo="" group-title="ESPAÑA",LA SEXTA SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/18
+#EXTINF:-1 tvg-id="" tvg-name="MEGA SD" tvg-logo="" group-title="ESPAÑA",MEGA SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/20
+#EXTINF:-1 tvg-id="" tvg-name="FDF SD" tvg-logo="" group-title="ESPAÑA",FDF SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/22
+#EXTINF:-1 tvg-id="" tvg-name="NEOX SD" tvg-logo="" group-title="ESPAÑA",NEOX SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/24
+#EXTINF:-1 tvg-id="" tvg-name="NOVA SD" tvg-logo="" group-title="ESPAÑA",NOVA SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/26
+#EXTINF:-1 tvg-id="" tvg-name="ENERGY SD" tvg-logo="" group-title="ESPAÑA",ENERGY SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/27
+#EXTINF:-1 tvg-id="" tvg-name="BE MAD SD" tvg-logo="" group-title="ESPAÑA",BE MAD SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/29
+#EXTINF:-1 tvg-id="" tvg-name="DKISS HD 720" tvg-logo="" group-title="ESPAÑA",DKISS HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/30
+#EXTINF:-1 tvg-id="" tvg-name="DIVINITY SD" tvg-logo="" group-title="ESPAÑA",DIVINITY SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/31
+#EXTINF:-1 tvg-id="" tvg-name="TEN SD" tvg-logo="" group-title="ESPAÑA",TEN SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/32
+#EXTINF:-1 tvg-id="" tvg-name="BOM CINE" tvg-logo="" group-title="ESPAÑA",BOM CINE
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/33
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY MAX SD" tvg-logo="" group-title="ESPAÑA",DISCOVERY MAX SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/35
+#EXTINF:-1 tvg-id="" tvg-name="ATRESERIES HD 720" tvg-logo="" group-title="ESPAÑA",ATRESERIES HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/51
+#EXTINF:-1 tvg-id="" tvg-name="ORANGE SERIES SD" tvg-logo="" group-title="ESPAÑA",ORANGE SERIES SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/54
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR SERIES FHD 1080" tvg-logo="" group-title="ESPAÑA",MOVISTAR SERIES FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/55
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR SERIES HD 720" tvg-logo="" group-title="ESPAÑA",MOVISTAR SERIES HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/56
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR SERIES SD" tvg-logo="" group-title="ESPAÑA",MOVISTAR SERIES SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/57
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR SERIESMANIA FHD 1080" tvg-logo="" group-title="ESPAÑA",MOVISTAR SERIESMANIA FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/58
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR SERIESMANIA HD 720" tvg-logo="" group-title="ESPAÑA",MOVISTAR SERIESMANIA HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/59
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR SERIESMANIA SD" tvg-logo="" group-title="ESPAÑA",MOVISTAR SERIESMANIA SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/60
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR ESTRENOS FHD 1080" tvg-logo="" group-title="ESPAÑA",MOVISTAR ESTRENOS FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/61
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR ESTRENOS HD 720" tvg-logo="" group-title="ESPAÑA",MOVISTAR ESTRENOS HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/62
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR ESTRENOS SD" tvg-logo="" group-title="ESPAÑA",MOVISTAR ESTRENOS SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/63
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR CINEDOC&ROLL FHD 1080" tvg-logo="" group-title="ESPAÑA",MOVISTAR CINEDOC&ROLL FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/64
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR CINEDOC&ROLL HD 720" tvg-logo="" group-title="ESPAÑA",MOVISTAR CINEDOC&ROLL HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/65
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR CINEDOC&ROLL SD" tvg-logo="" group-title="ESPAÑA",MOVISTAR CINEDOC&ROLL SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/66
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR ACCION FHD 1080" tvg-logo="" group-title="ESPAÑA",MOVISTAR ACCION FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/67
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR ACCION HD 720" tvg-logo="" group-title="ESPAÑA",MOVISTAR ACCION HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/68
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR ACCION SD" tvg-logo="" group-title="ESPAÑA",MOVISTAR ACCION SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/69
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR COMEDIA FHD 1080" tvg-logo="" group-title="ESPAÑA",MOVISTAR COMEDIA FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/70
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR COMEDIA HD 720" tvg-logo="" group-title="ESPAÑA",MOVISTAR COMEDIA HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/71
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR COMEDIA SD" tvg-logo="" group-title="ESPAÑA",MOVISTAR COMEDIA SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/72
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DRAMA FHD 1080" tvg-logo="" group-title="ESPAÑA",MOVISTAR DRAMA FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/73
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DRAMA HD 720" tvg-logo="" group-title="ESPAÑA",MOVISTAR DRAMA HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/74
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DRAMA SD" tvg-logo="" group-title="ESPAÑA",MOVISTAR DRAMA SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/75
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR CINE ESPAÑOL SD" tvg-logo="" group-title="ESPAÑA",MOVISTAR CINE ESPAÑOL SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/78
+#EXTINF:-1 tvg-id="" tvg-name="SOMOS FHD 1080" tvg-logo="" group-title="ESPAÑA",SOMOS FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/377
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY PLUS SD" tvg-logo="" group-title="ESPAÑA",DISNEY PLUS SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/81
+#EXTINF:-1 tvg-id="" tvg-name="#0 FHD 1080" tvg-logo="" group-title="ESPAÑA",#0 FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/82
+#EXTINF:-1 tvg-id="" tvg-name="#0 HD 720" tvg-logo="" group-title="ESPAÑA",#0 HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/83
+#EXTINF:-1 tvg-id="" tvg-name="#0 SD" tvg-logo="" group-title="ESPAÑA",#0 SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/84
+#EXTINF:-1 tvg-id="" tvg-name="FOX FHD 1080" tvg-logo="" group-title="ESPAÑA",FOX FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/85
+#EXTINF:-1 tvg-id="" tvg-name="FOX HD 720" tvg-logo="" group-title="ESPAÑA",FOX HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/86
+#EXTINF:-1 tvg-id="" tvg-name="FOX SD" tvg-logo="" group-title="ESPAÑA",FOX SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/87
+#EXTINF:-1 tvg-id="" tvg-name="AXN FHD 1080" tvg-logo="" group-title="ESPAÑA",AXN FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/88
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD 720" tvg-logo="" group-title="ESPAÑA",AXN HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/89
+#EXTINF:-1 tvg-id="" tvg-name="AXN SD" tvg-logo="" group-title="ESPAÑA",AXN SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/90
+#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE FHD 1080" tvg-logo="" group-title="ESPAÑA",AXN WHITE FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/91
+#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE HD 720" tvg-logo="" group-title="ESPAÑA",AXN WHITE HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/92
+#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE SD" tvg-logo="" group-title="ESPAÑA",AXN WHITE SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/93
+#EXTINF:-1 tvg-id="" tvg-name="TNT FHD 1080" tvg-logo="" group-title="ESPAÑA",TNT FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/94
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD 720" tvg-logo="" group-title="ESPAÑA",TNT HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/95
+#EXTINF:-1 tvg-id="" tvg-name="TNT SD" tvg-logo="" group-title="ESPAÑA",TNT SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/96
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL FHD 1080" tvg-logo="" group-title="ESPAÑA",COMEDY CENTRAL FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/97
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD 720" tvg-logo="" group-title="ESPAÑA",COMEDY CENTRAL HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/98
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL SD" tvg-logo="" group-title="ESPAÑA",COMEDY CENTRAL SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/99
+#EXTINF:-1 tvg-id="" tvg-name="CALLE 13 FHD 1080" tvg-logo="" group-title="ESPAÑA",CALLE 13 FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/100
+#EXTINF:-1 tvg-id="" tvg-name="CALLE 13 HD 720" tvg-logo="" group-title="ESPAÑA",CALLE 13 HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/101
+#EXTINF:-1 tvg-id="" tvg-name="CALLE 13 SD" tvg-logo="" group-title="ESPAÑA",CALLE 13 SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/102
+#EXTINF:-1 tvg-id="" tvg-name="COSMOPOLITAN FHD 1080" tvg-logo="" group-title="ESPAÑA",COSMOPOLITAN FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/103
+#EXTINF:-1 tvg-id="" tvg-name="COSMOPOLITAN HD 720" tvg-logo="" group-title="ESPAÑA",COSMOPOLITAN HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/104
+#EXTINF:-1 tvg-id="" tvg-name="COSMOPOLITAN SD" tvg-logo="" group-title="ESPAÑA",COSMOPOLITAN SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/105
+#EXTINF:-1 tvg-id="" tvg-name="AMC FHD 1080" tvg-logo="" group-title="ESPAÑA",AMC FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/106
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD 720" tvg-logo="" group-title="ESPAÑA",AMC HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/107
+#EXTINF:-1 tvg-id="" tvg-name="AMC SD" tvg-logo="" group-title="ESPAÑA",AMC SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/108
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE FHD 1080" tvg-logo="" group-title="ESPAÑA",FOX LIFE FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/109
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD 720" tvg-logo="" group-title="ESPAÑA",FOX LIFE HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/110
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE SD" tvg-logo="" group-title="ESPAÑA",FOX LIFE SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/111
+#EXTINF:-1 tvg-id="" tvg-name="SYFY FHD 1080" tvg-logo="" group-title="ESPAÑA",SYFY FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/112
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HD 720" tvg-logo="" group-title="ESPAÑA",SYFY HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/113
+#EXTINF:-1 tvg-id="" tvg-name="SYFY SD" tvg-logo="" group-title="ESPAÑA",SYFY SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/114
+#EXTINF:-1 tvg-id="" tvg-name="TCM FHD 1080" tvg-logo="" group-title="ESPAÑA",TCM FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/115
+#EXTINF:-1 tvg-id="" tvg-name="TCM HD 720" tvg-logo="" group-title="ESPAÑA",TCM HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/116
+#EXTINF:-1 tvg-id="" tvg-name="TCM SD" tvg-logo="" group-title="ESPAÑA",TCM SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/117
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD FHD 1080" tvg-logo="" group-title="ESPAÑA",HOLLYWOOD FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/118
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD HD 720" tvg-logo="" group-title="ESPAÑA",HOLLYWOOD HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/119
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD SD" tvg-logo="" group-title="ESPAÑA",HOLLYWOOD SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/120
+#EXTINF:-1 tvg-id="" tvg-name="DARK SD" tvg-logo="" group-title="ESPAÑA",DARK SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/124
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE SD" tvg-logo="" group-title="ESPAÑA",SUNDANCE SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/127
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL SD" tvg-logo="" group-title="ESPAÑA",PARAMOUNT CHANNEL SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/129
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC FHD 1080" tvg-logo="" group-title="ESPAÑA",NATIONAL GEOGRAPHIC FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/130
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD 720" tvg-logo="" group-title="ESPAÑA",NATIONAL GEOGRAPHIC HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/131
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="" group-title="ESPAÑA",NATIONAL GEOGRAPHIC SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/132
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD FHD 1080" tvg-logo="" group-title="ESPAÑA",NAT GEO WILD FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/133
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD HD 720" tvg-logo="" group-title="ESPAÑA",NAT GEO WILD HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/134
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD SD" tvg-logo="" group-title="ESPAÑA",NAT GEO WILD SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/135
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA SD" tvg-logo="" group-title="ESPAÑA",HISTORIA SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/138
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="" group-title="ESPAÑA",DISCOVERY CHANNEL SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/141
+#EXTINF:-1 tvg-id="" tvg-name="ODISEA SD" tvg-logo="" group-title="ESPAÑA",ODISEA SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/145
+#EXTINF:-1 tvg-id="" tvg-name="BLAZE SD" tvg-logo="" group-title="ESPAÑA",BLAZE SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/146
+#EXTINF:-1 tvg-id="" tvg-name="VIAJAR FHD 1080" tvg-logo="" group-title="ESPAÑA",VIAJAR FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/147
+#EXTINF:-1 tvg-id="" tvg-name="VIAJAR HD 720" tvg-logo="" group-title="ESPAÑA",VIAJAR HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/148
+#EXTINF:-1 tvg-id="" tvg-name="VIAJAR SD" tvg-logo="" group-title="ESPAÑA",VIAJAR SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/149
+#EXTINF:-1 tvg-id="" tvg-name="CRIMEN + INVESTIGACIÓN SD" tvg-logo="" group-title="ESPAÑA",CRIMEN + INVESTIGACIÓN SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/150
+#EXTINF:-1 tvg-id="" tvg-name="COCINA SD" tvg-logo="" group-title="ESPAÑA",COCINA SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/153
+#EXTINF:-1 tvg-id="" tvg-name="DECASA SD" tvg-logo="" group-title="ESPAÑA",DECASA SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/156
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 1 FHD 1080" tvg-logo="" group-title="ESPAÑA",ALQUILER 1 FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/157
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 2 FHD 1080" tvg-logo="" group-title="ESPAÑA",ALQUILER 2 FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/158
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 3 FHD 1080" tvg-logo="" group-title="ESPAÑA",ALQUILER 3 FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/159
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 4 HD 720" tvg-logo="" group-title="ESPAÑA",ALQUILER 4 HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/160
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 5 HD 720" tvg-logo="" group-title="ESPAÑA",ALQUILER 5 HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/161
+#EXTINF:-1 tvg-id="" tvg-name="MULTIDEPORTE SD" tvg-logo="" group-title="DEPORTES",MULTIDEPORTE SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/162
+#EXTINF:-1 tvg-id="" tvg-name="#VAMOS HD 720" tvg-logo="" group-title="DEPORTES",#VAMOS HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/165
+#EXTINF:-1 tvg-id="" tvg-name="#VAMOS SD" tvg-logo="" group-title="DEPORTES",#VAMOS SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/166
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LALIGA HD 720" tvg-logo="" group-title="DEPORTES",MOVISTAR LALIGA HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/180
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LALIGA SD" tvg-logo="" group-title="DEPORTES",MOVISTAR LALIGA SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/181
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV BAR HD 720" tvg-logo="" group-title="DEPORTES",LALIGA TV BAR HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/207
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV BAR SD" tvg-logo="" group-title="DEPORTES",LALIGA TV BAR SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/208
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES HD 720" tvg-logo="" group-title="DEPORTES",MOVISTAR LIGA DE CAMPEONES HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/211
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES SD" tvg-logo="" group-title="DEPORTES",MOVISTAR LIGA DE CAMPEONES SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/212
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR F1 HD 720" tvg-logo="" group-title="DEPORTES",MOVISTAR F1 HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/227
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR F1 SD" tvg-logo="" group-title="DEPORTES",MOVISTAR F1 SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/228
+#EXTINF:-1 tvg-id="" tvg-name="SKY MOTOGP 1 HD 720" tvg-logo="" group-title="DEPORTES",SKY MOTOGP 1 HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/229
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Y FOOTTERS EVENTOS 01 HD" tvg-logo="" group-title="DEPORTES",DAZN Y FOOTTERS EVENTOS 01 HD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/230
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Y FOOTTERS EVENTOS 02 HD" tvg-logo="" group-title="DEPORTES",DAZN Y FOOTTERS EVENTOS 02 HD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/231
+#EXTINF:-1 tvg-id="" tvg-name="DAZN1 EVENTOS ALEMAN 13 FHD" tvg-logo="" group-title="DEPORTES",DAZN1 EVENTOS ALEMAN 13 FHD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/242
+#EXTINF:-1 tvg-id="" tvg-name="DAZN2 EVENTOS ALEMAN 14 FHD" tvg-logo="" group-title="DEPORTES",DAZN2 EVENTOS ALEMAN 14 FHD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/243
+#EXTINF:-1 tvg-id="" tvg-name="DAZN1 EVENTOS ITALIA 15 HD" tvg-logo="" group-title="DEPORTES",DAZN1 EVENTOS ITALIA 15 HD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/244
+#EXTINF:-1 tvg-id="" tvg-name="DAZN2 EVENTOS ITALIA 16 HD" tvg-logo="" group-title="DEPORTES",DAZN2 EVENTOS ITALIA 16 HD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/245
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR GOLF FHD 1080" tvg-logo="" group-title="DEPORTES",MOVISTAR GOLF FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/247
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR GOLF HD 720" tvg-logo="" group-title="DEPORTES",MOVISTAR GOLF HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/248
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR GOLF SD" tvg-logo="" group-title="DEPORTES",MOVISTAR GOLF SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/249
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 FHD 1080" tvg-logo="" group-title="DEPORTES",EUROSPORT 1 FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/250
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD 720" tvg-logo="" group-title="DEPORTES",EUROSPORT 1 HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/251
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 SD" tvg-logo="" group-title="DEPORTES",EUROSPORT 1 SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/252
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 SD" tvg-logo="" group-title="DEPORTES",EUROSPORT 2 SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/255
+#EXTINF:-1 tvg-id="" tvg-name="GOL HD 720" tvg-logo="" group-title="DEPORTES",GOL HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/257
+#EXTINF:-1 tvg-id="" tvg-name="GOL SD" tvg-logo="" group-title="DEPORTES",GOL SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/258
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTS 3 HD 720" tvg-logo="" group-title="DEPORTES",ESPORTS 3 HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/259
+#EXTINF:-1 tvg-id="" tvg-name="TELEDEPORTE SD" tvg-logo="" group-title="DEPORTES",TELEDEPORTE SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/262
+#EXTINF:-1 tvg-id="" tvg-name="CAZAVISION TV FHD 1080" tvg-logo="" group-title="DEPORTES",CAZAVISION TV FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/263
+#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA FHD 1080" tvg-logo="" group-title="DEPORTES",CAZA Y PESCA FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/264
+#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA HD 720" tvg-logo="" group-title="DEPORTES",CAZA Y PESCA HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/265
+#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA SD" tvg-logo="" group-title="DEPORTES",CAZA Y PESCA SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/266
+#EXTINF:-1 tvg-id="" tvg-name="IBERALIA SD" tvg-logo="" group-title="DEPORTES",IBERALIA SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/267
+#EXTINF:-1 tvg-id="" tvg-name="TOROS FHD 1080" tvg-logo="" group-title="DEPORTES",TOROS FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/268
+#EXTINF:-1 tvg-id="" tvg-name="TOROS HD 720" tvg-logo="" group-title="DEPORTES",TOROS HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/269
+#EXTINF:-1 tvg-id="" tvg-name="TOROS SD" tvg-logo="" group-title="DEPORTES",TOROS SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/270
+#EXTINF:-1 tvg-id="" tvg-name="REAL MADRID TV SD" tvg-logo="" group-title="DEPORTES",REAL MADRID TV SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/273
+#EXTINF:-1 tvg-id="" tvg-name="BARÇA TV SD" tvg-logo="" group-title="DEPORTES",BARÇA TV SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/276
+#EXTINF:-1 tvg-id="" tvg-name="ESPN DEPORTES HD 720" tvg-logo="" group-title="DEPORTES",ESPN DEPORTES HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/279
+#EXTINF:-1 tvg-id="" tvg-name="SUPER TENNIS SD" tvg-logo="" group-title="DEPORTES",SUPER TENNIS SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/280
+#EXTINF:-1 tvg-id="" tvg-name="U-BEAT HD 720" tvg-logo="" group-title="DEPORTES",U-BEAT HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/282
+#EXTINF:-1 tvg-id="" tvg-name="RED BULL TV FHD 1080" tvg-logo="" group-title="DEPORTES",RED BULL TV FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/283
+#EXTINF:-1 tvg-id="" tvg-name="WWE HD 720" tvg-logo="" group-title="DEPORTES",WWE HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/285
+#EXTINF:-1 tvg-id="" tvg-name="FIGHT TIME FHD 1080" tvg-logo="" group-title="DEPORTES",FIGHT TIME FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/286
+#EXTINF:-1 tvg-id="" tvg-name="KOMBAT SPORT HD 720" tvg-logo="" group-title="DEPORTES",KOMBAT SPORT HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/287
+#EXTINF:-1 tvg-id="" tvg-name="BOXNATION HD 720" tvg-logo="" group-title="DEPORTES",BOXNATION HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/288
+#EXTINF:-1 tvg-id="" tvg-name="UFC HD 720" tvg-logo="" group-title="DEPORTES",UFC HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/289
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHTING SPORTS HD 720" tvg-logo="" group-title="DEPORTES",UFC FIGHTING SPORTS HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/290
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV HD 720" tvg-logo="" group-title="DEPORTES",NBA TV HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/291
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS SD" tvg-logo="" group-title="DEPORTES",FOX SPORTS SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/292
+#EXTINF:-1 tvg-id="" tvg-name="CLAN TVE FHD 1080" tvg-logo="" group-title="ESPAÑA",CLAN TVE FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/295
+#EXTINF:-1 tvg-id="" tvg-name="CLAN TVE HD 720" tvg-logo="" group-title="ESPAÑA",CLAN TVE HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/296
+#EXTINF:-1 tvg-id="" tvg-name="CLAN TVE SD" tvg-logo="" group-title="ESPAÑA",CLAN TVE SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/297
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL FHD 1080" tvg-logo="" group-title="ESPAÑA",DISNEY CHANNEL FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/298
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD 720" tvg-logo="" group-title="ESPAÑA",DISNEY CHANNEL HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/299
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON FHD 1080" tvg-logo="" group-title="ESPAÑA",NICKELODEON FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/300
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON HD 720" tvg-logo="" group-title="ESPAÑA",NICKELODEON HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/301
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON SD" tvg-logo="" group-title="ESPAÑA",NICKELODEON SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/302
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD SD" tvg-logo="" group-title="ESPAÑA",DISNEY XD SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/303
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR SD" tvg-logo="" group-title="ESPAÑA",DISNEY JUNIOR SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/304
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR SD" tvg-logo="" group-title="ESPAÑA",NICK JR SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/305
+#EXTINF:-1 tvg-id="" tvg-name="BOING SD" tvg-logo="" group-title="ESPAÑA",BOING SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/306
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PANDA SD" tvg-logo="" group-title="ESPAÑA",CANAL PANDA SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/307
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV SD" tvg-logo="" group-title="ESPAÑA",BABY TV SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/308
+#EXTINF:-1 tvg-id="" tvg-name="MTV ESPAÑA SD" tvg-logo="" group-title="ESPAÑA",MTV ESPAÑA SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/309
+#EXTINF:-1 tvg-id="" tvg-name="MTV EUROPE HD 720" tvg-logo="" group-title="ESPAÑA",MTV EUROPE HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/310
+#EXTINF:-1 tvg-id="" tvg-name="MTV BASE" tvg-logo="" group-title="ESPAÑA",MTV BASE
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/311
+#EXTINF:-1 tvg-id="" tvg-name="MTV ROCKS HD 720" tvg-logo="" group-title="ESPAÑA",MTV ROCKS HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/312
+#EXTINF:-1 tvg-id="" tvg-name="MTV DANCE FHD 1080" tvg-logo="" group-title="ESPAÑA",MTV DANCE FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/313
+#EXTINF:-1 tvg-id="" tvg-name="MTV HITS HD 720" tvg-logo="" group-title="ESPAÑA",MTV HITS HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/314
+#EXTINF:-1 tvg-id="" tvg-name="MTV CLASSIC" tvg-logo="" group-title="ESPAÑA",MTV CLASSIC
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/315
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE FHD 1080" tvg-logo="" group-title="ESPAÑA",MTV LIVE FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/316
+#EXTINF:-1 tvg-id="" tvg-name="MTV HITS EUROPE" tvg-logo="" group-title="ESPAÑA",MTV HITS EUROPE
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/317
+#EXTINF:-1 tvg-id="" tvg-name="MTV MUSIC 24" tvg-logo="" group-title="ESPAÑA",MTV MUSIC 24
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/318
+#EXTINF:-1 tvg-id="" tvg-name="VH1 EUROPE" tvg-logo="" group-title="ESPAÑA",VH1 EUROPE
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/319
+#EXTINF:-1 tvg-id="" tvg-name="VH1 CLASSIC" tvg-logo="" group-title="ESPAÑA",VH1 CLASSIC
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/320
+#EXTINF:-1 tvg-id="" tvg-name="SOL MUSICA" tvg-logo="" group-title="ESPAÑA",SOL MUSICA
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/321
+#EXTINF:-1 tvg-id="" tvg-name="MEZZO LIVE HD 720" tvg-logo="" group-title="ESPAÑA",MEZZO LIVE HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/322
+#EXTINF:-1 tvg-id="" tvg-name="CLASSICA" tvg-logo="" group-title="ESPAÑA",CLASSICA
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/324
+#EXTINF:-1 tvg-id="" tvg-name="TRECE" tvg-logo="" group-title="ESPAÑA",TRECE
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/325
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SUR HD 720" tvg-logo="" group-title="ESPAÑA",CANAL SUR HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/328
+#EXTINF:-1 tvg-id="" tvg-name="CANAL EXTREMADURA" tvg-logo="" group-title="ESPAÑA",CANAL EXTREMADURA
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/329
+#EXTINF:-1 tvg-id="" tvg-name="7TV REGIÓN DE MURCIA" tvg-logo="" group-title="ESPAÑA",7TV REGIÓN DE MURCIA
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/330
+#EXTINF:-1 tvg-id="" tvg-name="GALICIA TV SD" tvg-logo="" group-title="ESPAÑA",GALICIA TV SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/332
+#EXTINF:-1 tvg-id="" tvg-name="RT ESPAÑOL HD 720" tvg-logo="" group-title="ESPAÑA",RT ESPAÑOL HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/333
+#EXTINF:-1 tvg-id="" tvg-name="RT EUROPE HD 720" tvg-logo="" group-title="ESPAÑA",RT EUROPE HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/334
+#EXTINF:-1 tvg-id="" tvg-name="RTP ASTURIAS HD 720" tvg-logo="" group-title="ESPAÑA",RTP ASTURIAS HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/335
+#EXTINF:-1 tvg-id="" tvg-name="8 MADRID TV" tvg-logo="" group-title="ESPAÑA",8 MADRID TV
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/336
+#EXTINF:-1 tvg-id="" tvg-name="TELEMADRID HD 720" tvg-logo="" group-title="ESPAÑA",TELEMADRID HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/338
+#EXTINF:-1 tvg-id="" tvg-name="CASTILLA Y LEON 7 HD 720" tvg-logo="" group-title="ESPAÑA",CASTILLA Y LEON 7 HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/341
+#EXTINF:-1 tvg-id="" tvg-name="CASTILLA LA MANCHA TV" tvg-logo="" group-title="ESPAÑA",CASTILLA LA MANCHA TV
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/342
+#EXTINF:-1 tvg-id="" tvg-name="ARAGON TV" tvg-logo="" group-title="ESPAÑA",ARAGON TV
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/343
+#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA" tvg-logo="" group-title="ESPAÑA",AL JAZEERA
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/345
+#EXTINF:-1 tvg-id="" tvg-name="A PUNT HD 720" tvg-logo="" group-title="ESPAÑA",A PUNT HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/346
+#EXTINF:-1 tvg-id="" tvg-name="3/24" tvg-logo="" group-title="ESPAÑA",3/24
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/347
+#EXTINF:-1 tvg-id="" tvg-name="7TV BAHIA HD 720" tvg-logo="" group-title="ESPAÑA",7TV BAHIA HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/348
+#EXTINF:-1 tvg-id="" tvg-name="ARIRANG TV" tvg-logo="" group-title="ESPAÑA",ARIRANG TV
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/349
+#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD FHD 1080" tvg-logo="" group-title="ESPAÑA",BBC WORLD FHD 1080
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/350
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 33" tvg-logo="" group-title="ESPAÑA",CANAL 33
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/353
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DE LAS ESTRELLAS" tvg-logo="" group-title="ESPAÑA",CANAL DE LAS ESTRELLAS
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/355
+#EXTINF:-1 tvg-id="" tvg-name="CANAL ORBE 21" tvg-logo="" group-title="ESPAÑA",CANAL ORBE 21
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/356
+#EXTINF:-1 tvg-id="" tvg-name="CNBC EUROPE HD 720" tvg-logo="" group-title="ESPAÑA",CNBC EUROPE HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/357
+#EXTINF:-1 tvg-id="" tvg-name="CNC WORLD" tvg-logo="" group-title="ESPAÑA",CNC WORLD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/358
+#EXTINF:-1 tvg-id="" tvg-name="CNN EN ESPAÑOL" tvg-logo="" group-title="ESPAÑA",CNN EN ESPAÑOL
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/359
+#EXTINF:-1 tvg-id="" tvg-name="CORDOBA TV 1" tvg-logo="" group-title="ESPAÑA",CORDOBA TV 1
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/361
+#EXTINF:-1 tvg-id="" tvg-name="CUBAVISION" tvg-logo="" group-title="ESPAÑA",CUBAVISION
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/362
+#EXTINF:-1 tvg-id="" tvg-name="EL GARAGE TV" tvg-logo="" group-title="ESPAÑA",EL GARAGE TV
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/363
+#EXTINF:-1 tvg-id="" tvg-name="ETB 1 HD 720" tvg-logo="" group-title="ESPAÑA",ETB 1 HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/365
+#EXTINF:-1 tvg-id="" tvg-name="ETB 2 HD 720" tvg-logo="" group-title="ESPAÑA",ETB 2 HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/367
+#EXTINF:-1 tvg-id="" tvg-name="ETB SAT" tvg-logo="" group-title="ESPAÑA",ETB SAT
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/368
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS HD 720" tvg-logo="" group-title="ESPAÑA",EURONEWS HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/369
+#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS" tvg-logo="" group-title="ESPAÑA",FOX NEWS
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/370
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24 HD 720" tvg-logo="" group-title="ESPAÑA",FRANCE 24 HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/371
+#EXTINF:-1 tvg-id="" tvg-name="INTERCONOMIA TV" tvg-logo="" group-title="ESPAÑA",INTERCONOMIA TV
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/372
+#EXTINF:-1 tvg-id="" tvg-name="MELILLA TV" tvg-logo="" group-title="ESPAÑA",MELILLA TV
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/373
+#EXTINF:-1 tvg-id="" tvg-name="NHK WORLD TV" tvg-logo="" group-title="ESPAÑA",NHK WORLD TV
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/374
+#EXTINF:-1 tvg-id="" tvg-name="ONDA CADIZ HD 720" tvg-logo="" group-title="ESPAÑA",ONDA CADIZ HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/375
+#EXTINF:-1 tvg-id="" tvg-name="RTVA ANDORRA" tvg-logo="" group-title="ESPAÑA",RTVA ANDORRA
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/376
+#EXTINF:-1 tvg-id="" tvg-name="TELEVALENCIA 7 HD 720" tvg-logo="" group-title="ESPAÑA",TELEVALENCIA 7 HD 720
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/379
+#EXTINF:-1 tvg-id="" tvg-name="CHILE TV" tvg-logo="" group-title="ESPAÑA",CHILE TV
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/381
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA TV" tvg-logo="" group-title="ESPAÑA",COLOMBIA TV
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/382
+#EXTINF:-1 tvg-id="" tvg-name="TV3 SD" tvg-logo="" group-title="ESPAÑA",TV3 SD
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/386
+#EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE" tvg-logo="" group-title="ESPAÑA",TV5 MONDE
+http://free.gollumtvsp.net:80/gollumtv/free5@!!/387
