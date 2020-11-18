@@ -65,14 +65,6 @@ ________________________________________________________________________________
 
  
  <item>
-<title>[COLOR green]ON [/COLOR] Lista[COLOR blue] de prueba [/COLOR] [COLOR green][/COLOR]</title>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/anisesl2/wizard/master/prueba</externallink>
-<thumbnail>https://i.imgur.com/LNZ4s5I.jpg</thumbnail>
-<fanart>https://i.imgur.com/RLsJ67J.jpg</fanart>
-</item>
- 
- <item>
 <title>[COLOR green]ON [/COLOR] Canales[COLOR blue] 1[/COLOR] [COLOR green][/COLOR]</title>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/anisesl2/wizard/master/lista1</externallink>
@@ -105,7 +97,7 @@ ________________________________________________________________________________
 </item>
  
  <item>
-<title>[COLOR green]ON [/COLOR] Especial[COLOR blue] 5[/COLOR] [COLOR green][/COLOR]</title>
+<title>[COLOR red]OFF [/COLOR] Especial[COLOR blue] 5[/COLOR] [COLOR green][/COLOR]</title>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/anisesl2/wizard/master/5</externallink>
 <thumbnail>https://i.imgur.com/LNZ4s5I.jpg</thumbnail>
