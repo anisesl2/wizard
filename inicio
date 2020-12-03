@@ -1,7 +1,7 @@
    ˂?xml version=″1.0″ encoding=″standalone=″yes″?>
 
 <item>
-<title> [COLOR blue]VOLVEMOS EN 5 MINUTOS[/COLOR] [COLOR blue]TVPLUS[/COLOR]</title>
+<title> [COLOR blue]Bienvenidos a[/COLOR] [COLOR blue]TVPLUS[/COLOR]</title>
 <link>http://ignoreme</link>
 <urlsolve>https://www.youtube.com/watch?v=b69ca1fJf4A/<urlsolve>
 <externallink></externallink>
@@ -11,3 +11,96 @@
 
 
 
+
+
+<item>
+<title>[COLOR yelow] Leer[/COLOR] [COLOR blue][B][I] Adoons Gratuito[/I][/B][/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink></externallink>
+<thumbnail>https://i.imgur.com/LNZ4s5I.jpg</thumbnail>
+<fanart>https://i.imgur.com/RLsJ67J.jpg</fanart>
+</item>
+
+
+<item>
+<title>[B][COLOR blue]Cambia de lista si no carga[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lime][makelist.param1] [COLOR silver][makelist.param2] [COLOR yellow][makelist.param3] [COLOR silver][makelist.param4] [COLOR skyblue][makelist.param5] [COLOR yellow][makelist.param6] [COLOR silver][makelist.param7] [COLOR skyblue][makelist.param8] [COLOR yellow][makelist.param9][/COLOR]</title>
+<link>$doregex[makelist1]</link>
+<thumbnail>https://i.imgur.com/Ghisj8C.jpg</thumbnail>
+<fanart>https://i.imgur.com/BoS6yJc.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re , requests , xbmc , xbmcaddon , xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+ 
+    url= 'https://www.formulatv.com/programacion/'
+    agent = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36'}
+    extraer = requests.get(url, headers=agent)
+    links = re.findall('cadena".*\n.*?title="(.*?)">|class="(ahora)">\n(.*?)\n|class="(luego)".*\n.*?date">(.*?)<.*\n(.*?)\n|class="(mastarde)".*\n.*?date">(.*?)<.*\n(.*?)\n', extraer.text)
+    return links
+]]></expres>
+<page></page>
+<info></info>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+_________________________________________________________________________________________________
+
+
+
+<item>
+<title>[COLOR green]ON [/COLOR] Canales[COLOR blue] TDT[/COLOR] [COLOR green][/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>https://www.tdtchannels.com/lists/tv.m3u</externallink>
+<thumbnail>https://i.imgur.com/LNZ4s5I.jpg</thumbnail>
+<fanart>https://i.imgur.com/BoS6yJc.jpg</fanart>
+</item>
+ 
+
+
+ 
+ <item>
+<title>[COLOR green]ON [/COLOR] Canales[COLOR blue] 1[/COLOR] [COLOR green][/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/anisesl2/wizard/master/lista1</externallink>
+<thumbnail>https://i.imgur.com/LNZ4s5I.jpg</thumbnail>
+<fanart>https://i.imgur.com/RLsJ67J.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR green]ON [/COLOR] Canales[COLOR blue] 2[/COLOR] [COLOR green][/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/anisesl2/wizard/master/lista2</externallink>
+<thumbnail>https://i.imgur.com/LNZ4s5I.jpg</thumbnail>
+<fanart>https://i.imgur.com/RLsJ67J.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR red]OFF [/COLOR] Canales[COLOR blue] 3[/COLOR] [COLOR green][/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/anisesl2/wizard/master/lista3</externallink>
+<thumbnail>https://i.imgur.com/LNZ4s5I.jpg</thumbnail>
+<fanart>https://i.imgur.com/RLsJ67J.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR green]ON [/COLOR] Canales[COLOR blue] 4[/COLOR] [COLOR green][/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/anisesl2/wizard/master/lista4</externallink>
+<thumbnail>https://i.imgur.com/LNZ4s5I.jpg</thumbnail>
+<fanart>https://i.imgur.com/RLsJ67J.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR green]ON [/COLOR] Especial[COLOR blue] 5[/COLOR] [COLOR green][/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/anisesl2/wizard/master/5</externallink>
+<thumbnail>https://i.imgur.com/LNZ4s5I.jpg</thumbnail>
+<fanart>https://i.imgur.com/RLsJ67J.jpg</fanart>
+</item>
