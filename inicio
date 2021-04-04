@@ -14,7 +14,7 @@
 <link>$doregex[makelist]</link>
 
 <item>
-<title>[COLOR green]ON [/COLOR] Limitada[COLOR blue] 2[/COLOR] [COLOR green][/COLOR]</title>
+<title>[COLOR red]OFF [/COLOR] Limitada[COLOR blue] 2[/COLOR] [COLOR green][/COLOR]</title>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/anisesl2/wizard/master/2</externallink>
 <thumbnail>https://i.imgur.com/LNZ4s5I.jpg</thumbnail>
