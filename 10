@@ -1,159 +1,133 @@
 #EXTM3U
-#EXTINF:-1,ES| LA 1 HD
-http://iptv.nonoip.com:7000/naima/naima1234/1347
-#EXTINF:-1,ES| LA 2 HD
-http://iptv.nonoip.com:7000/naima/naima1234/1348
-#EXTINF:-1,ES| ANTENA 3 HD
-http://iptv.nonoip.com:7000/naima/naima1234/1069
-#EXTINF:-1,ES| LA SEXTA HD
-http://iptv.nonoip.com:7000/naima/naima1234/1
-#EXTINF:-1,ES| TELECINCO HD
-http://iptv.nonoip.com:7000/naima/naima1234/1351
-#EXTINF:-1,ES| #0 HD
-http://iptv.nonoip.com:7000/naima/naima1234/1357
-#EXTINF:-1,ES| 24 HORAS
-http://iptv.nonoip.com:7000/naima/naima1234/1356
-#EXTINF:-1,ES| CUATRO HD
-http://iptv.nonoip.com:7000/naima/naima1234/1350
-#EXTINF:-1,ES| HISTORIA HD
-http://iptv.nonoip.com:7000/naima/naima1234/1370
-#EXTINF:-1,ES| DIVINITY HD
-http://iptv.nonoip.com:7000/naima/naima1234/1354
-#EXTINF:-1,ES| NOVA HD
-http://iptv.nonoip.com:7000/naima/naima1234/1353
-#EXTINF:-1,ES| TNT HD
-http://iptv.nonoip.com:7000/naima/naima1234/1368
-#EXTINF:-1,ES| VIAJAR HD
-http://iptv.nonoip.com:7000/naima/naima1234/1371
-#EXTINF:-1,ES| ODISEA
-http://iptv.nonoip.com:7000/naima/naima1234/702
-#EXTINF:-1,ES| HOLLYWOOD
-http://iptv.nonoip.com:7000/naima/naima1234/701
-#EXTINF:-1,ES| COSMO
-http://iptv.nonoip.com:7000/naima/naima1234/1042
-#EXTINF:-1,ES| SYFY HD
-http://iptv.nonoip.com:7000/naima/naima1234/1035
-#EXTINF:-1,ES| MTV
-http://iptv.nonoip.com:7000/naima/naima1234/1800
-#EXTINF:-1,ES| FOX LIFE HD
-http://iptv.nonoip.com:7000/naima/naima1234/703
-#EXTINF:-1,ES| M COMEDIA HD
-http://iptv.nonoip.com:7000/naima/naima1234/532
-#EXTINF:-1,ES| M ACCION HD
-http://iptv.nonoip.com:7000/naima/naima1234/523
-#EXTINF:-1,ES| M DCINE HD
-http://iptv.nonoip.com:7000/naima/naima1234/537
-#EXTINF:-1,ES| M SERIES XTRA HD
-http://iptv.nonoip.com:7000/naima/naima1234/542
-#EXTINF:-1,ES| M ESTRENOS FHD
-http://iptv.nonoip.com:7000/naima/naima1234/1038
-#EXTINF:-1,ES| M SERIES HD
-http://iptv.nonoip.com:7000/naima/naima1234/1036
-#EXTINF:-1,ES| M XTRA HD
-http://iptv.nonoip.com:7000/naima/naima1234/1358
-#EXTINF:-1,ES| M ESTRENOS HD
-http://iptv.nonoip.com:7000/naima/naima1234/529
-#EXTINF:-1,ES| A3 SERIES HD
-http://iptv.nonoip.com:7000/naima/naima1234/1349
-#EXTINF:-1,ES| COMEDY CENTRAL HD
-http://iptv.nonoip.com:7000/naima/naima1234/1043
-#EXTINF:-1,ES| AXN HD
-http://iptv.nonoip.com:7000/naima/naima1234/526
-#EXTINF:-1,ES| AXN WHITE HD
-http://iptv.nonoip.com:7000/naima/naima1234/1062
-#EXTINF:-1,ES| FOX HD
-http://iptv.nonoip.com:7000/naima/naima1234/520
-#EXTINF:-1,ES| FOX LIFE SD
-http://iptv.nonoip.com:7000/naima/naima1234/519
-#EXTINF:-1,ES| CALLE 13 HD
-http://iptv.nonoip.com:7000/naima/naima1234/1063
-#EXTINF:-1,ES| TCM HD
-http://iptv.nonoip.com:7000/naima/naima1234/1034
-#EXTINF:-1,ES| NATIONAL GEO HD
-http://iptv.nonoip.com:7000/naima/naima1234/1050
-#EXTINF:-1,ES| NATIONAL GEO FHD
-http://iptv.nonoip.com:7000/naima/naima1234/1064
-#EXTINF:-1,ES| NAT GEO WILD HD
-http://iptv.nonoip.com:7000/naima/naima1234/1051
-#EXTINF:-1,ES| DISCOVERY HD
-http://iptv.nonoip.com:7000/naima/naima1234/516
-#EXTINF:-1,ES| CAZA y PESCA HD
-http://iptv.nonoip.com:7000/naima/naima1234/1057
-#EXTINF:-1,ES| CRIMEN INVES HD
-http://iptv.nonoip.com:7000/naima/naima1234/1369
-#EXTINF:-1,ES| DAZN 1  (Solo Eventos)
-http://iptv.nonoip.com:7000/naima/naima1234/12630
-#EXTINF:-1,ES| DAZN 2 (Solo Eventos)
-http://iptv.nonoip.com:7000/naima/naima1234/12631
-#EXTINF:-1,ES| M LALIGA 1 (Solo Eventos)
-http://iptv.nonoip.com:7000/naima/naima1234/12634
-#EXTINF:-1,ES| M LALIGA 2 (Solo Eventos)
-http://iptv.nonoip.com:7000/naima/naima1234/12635
-#EXTINF:-1,ES| Liga de Campeones
-http://iptv.nonoip.com:7000/naima/naima1234/700
-#EXTINF:-1,ES| M Liga de Campeones 1 (Solo Eventos)
-http://iptv.nonoip.com:7000/naima/naima1234/12632
-#EXTINF:-1,ES| M Liga de Campeones 2
-http://iptv.nonoip.com:7000/naima/naima1234/12633
-#EXTINF:-1,ES| BARCA TV
-http://iptv.nonoip.com:7000/naima/naima1234/518
-#EXTINF:-1,ES| REAL MADRID TV
-http://iptv.nonoip.com:7000/naima/naima1234/514
-#EXTINF:-1,ES| M MOTOGP SD
-http://iptv.nonoip.com:7000/naima/naima1234/1052
-#EXTINF:-1,ES| M GOLF HD
-http://iptv.nonoip.com:7000/naima/naima1234/1037
-#EXTINF:-1,ES| M FORMULA 1 FHD
-http://iptv.nonoip.com:7000/naima/naima1234/1066
-#EXTINF:-1,ES| M FORMULA 1 HD
-http://iptv.nonoip.com:7000/naima/naima1234/1053
-#EXTINF:-1,ES| TOROS HD
-http://iptv.nonoip.com:7000/naima/naima1234/544
-#EXTINF:-1,ES| EUROSPORT 1 HD
-http://iptv.nonoip.com:7000/naima/naima1234/1054
-#EXTINF:-1,ES| EUROSPORT 2 HD
-http://iptv.nonoip.com:7000/naima/naima1234/1055
-#EXTINF:-1,ES| LALIGATV BAR FHD
-http://iptv.nonoip.com:7000/naima/naima1234/1375
-#EXTINF:-1,ES| LALIGATV BAR SD
-http://iptv.nonoip.com:7000/naima/naima1234/1058
-#EXTINF:-1,ES| M DEP HD
-http://iptv.nonoip.com:7000/naima/naima1234/1061
-#EXTINF:-1,ES| M DEP 1 HD
-http://iptv.nonoip.com:7000/naima/naima1234/1376
-#EXTINF:-1,ES| M DEP 2 HD
-http://iptv.nonoip.com:7000/naima/naima1234/1377
-#EXTINF:-1,ES| TELEDEPORTE
-http://iptv.nonoip.com:7000/naima/naima1234/2136
-#EXTINF:-1,ES| Vamos HD
-http://iptv.nonoip.com:7000/naima/naima1234/5213
-#EXTINF:-1,ES| GOL
-http://iptv.nonoip.com:7000/naima/naima1234/1917
-#EXTINF:-1,ES| MEGA
-http://iptv.nonoip.com:7000/naima/naima1234/1039
-#EXTINF:-1,ES| ENERGY
-http://iptv.nonoip.com:7000/naima/naima1234/1040
-#EXTINF:-1,ES| CANAL PANDA
-http://iptv.nonoip.com:7000/naima/naima1234/2135
-#EXTINF:-1,ES| NICK JR HD
-http://iptv.nonoip.com:7000/naima/naima1234/1355
-#EXTINF:-1,ES| DISNEY XD HD
-http://iptv.nonoip.com:7000/naima/naima1234/1067
-#EXTINF:-1,ES| DISNEY JUNIOR HD
-http://iptv.nonoip.com:7000/naima/naima1234/1056
-#EXTINF:-1,ES| DISNEY CHANNEL HD
-http://iptv.nonoip.com:7000/naima/naima1234/1374
-#EXTINF:-1,ES| BABY TV
-http://iptv.nonoip.com:7000/naima/naima1234/1045
-#EXTINF:-1,ES| NICKELODEON HD
-http://iptv.nonoip.com:7000/naima/naima1234/1373
-#EXTINF:-1,ES| BOING
-http://iptv.nonoip.com:7000/naima/naima1234/1044
-#EXTINF:-1,ES| AlquiLer 1
-http://iptv.nonoip.com:7000/naima/naima1234/1359
-#EXTINF:-1,ES| AlquiLer 2
-http://iptv.nonoip.com:7000/naima/naima1234/1360
-#EXTINF:-1,ES| AlquiLer 3
-http://iptv.nonoip.com:7000/naima/naima1234/1361
-#EXTINF:-1,ES| AlquiLer 4
-http://iptv.nonoip.com:7000/naima/naima1234/1362
+#EXTINF:-1,ES LaLiga 123 FHD  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210628
+#EXTINF:-1,ES LaLiga TV Bar  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210629
+#EXTINF:-1,ES Levante TV  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210630
+#EXTINF:-1,ES Mega HD  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210631
+#EXTINF:-1,ES Mezzo Live FHD  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210632
+#EXTINF:-1,ES Movistar  Cine Doc Roll  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210633
+#EXTINF:-1,ES Movistar  Deportes 1 FHD  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210634
+#EXTINF:-1,ES Movistar Accion  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210635
+#EXTINF:-1,ES Movistar Accion FHD  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210636
+#EXTINF:-1,ES Movistar Cine   (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210637
+#EXTINF:-1,ES Movistar Comedia  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210638
+#EXTINF:-1,ES Movistar Comedia FHD  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210639
+#EXTINF:-1,ES Movistar DCine  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210640
+#EXTINF:-1,ES Movistar Deportes 1  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210641
+#EXTINF:-1,ES Movistar Drama  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210642
+#EXTINF:-1,ES Movistar Estrenos  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210643
+#EXTINF:-1,ES Movistar F1  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210644
+#EXTINF:-1,ES Movistar Formula 1 HD  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210645
+#EXTINF:-1,ES Movistar Futbol  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210646
+#EXTINF:-1,ES Movistar Golf  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210647
+#EXTINF:-1,ES Movistar Liga de Campeones 1 FHD  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210648
+#EXTINF:-1,ES Movistar Liga de Campeones 1 HD  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210649
+#EXTINF:-1,ES Movistar Liga de Campeones 2 FHD  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210650
+#EXTINF:-1,ES Movistar Liga de Campeones 2 HD  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210651
+#EXTINF:-1,ES Movistar Liga de Campeones 3 HD  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210652
+#EXTINF:-1,ES Movistar Liga de Campeones 4 HD  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210653
+#EXTINF:-1,ES Movistar Moto GP HD  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210654
+#EXTINF:-1,ES Movistar Series HD  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210655
+#EXTINF:-1,ES Movistar Xtra  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210656
+#EXTINF:-1,ES Movistartrenos FHD  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210657
+#EXTINF:-1,ES MTV  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210658
+#EXTINF:-1,ES MTV Rocks  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210659
+#EXTINF:-1,ES MULTI DEPORTE  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210660
+#EXTINF:-1,ES Nat Geo  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210661
+#EXTINF:-1,ES Nat Geo HD  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210662
+#EXTINF:-1,ES Nat Geo Wild  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210663
+#EXTINF:-1,ES Neox  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210664
+#EXTINF:-1,ES Nick Junior  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210665
+#EXTINF:-1,ES Nickelodeon  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210666
+#EXTINF:-1,ES Nickelodeon HD  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210667
+#EXTINF:-1,ES Non Stop People  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210668
+#EXTINF:-1,ES Nova  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210669
+#EXTINF:-1,ES Odisea HD  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210670
+#EXTINF:-1,ES Paramount Channel  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210671
+#EXTINF:-1,ES Real Madrid TV  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210672
+#EXTINF:-1,ES Somos FHD  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210673
+#EXTINF:-1,ES Sundance TV  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210674
+#EXTINF:-1,ES SyFy FHD  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210675
+#EXTINF:-1,ES SyFy HD  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210676
+#EXTINF:-1,ES TCM  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210689
+#EXTINF:-1,ES TCM FHD  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210690
+#EXTINF:-1,ES Telecinco  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210691
+#EXTINF:-1,ES Telecinco FHD  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210692
+#EXTINF:-1,ES Telecinco HD  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210693
+#EXTINF:-1,ES TNT  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210694
+#EXTINF:-1,ES Toros TV FHD  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210695
+#EXTINF:-1,ES TV3 (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210696
+#EXTINF:-1,ES TV3 24H (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210697
+#EXTINF:-1,ES TV3 Cat  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210698
+#EXTINF:-1,ES TVE Internacional  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210699
+#EXTINF:-1,ES TVE LA 2  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210700
+#EXTINF:-1,ES Vamos  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210701
+#EXTINF:-1,ES Vamos FHD  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210702
+#EXTINF:-1,ES Vamos HD  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210703
+#EXTINF:-1,ES VH1  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210704
+#EXTINF:-1,ES Viajar HD  (P)
+http://ajstreamz.xyz:8080/Matt1/Matt2/210705
