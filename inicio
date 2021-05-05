@@ -16,20 +16,13 @@
 
 
 <item>
-<title>[COLOR green]ON [/COLOR] Sin Limites[COLOR blue] TDT[/COLOR] [COLOR green][/COLOR]</title>
+<title>[COLOR green]ON [/COLOR] Sin Limites[COLOR red] TDT[/COLOR] [COLOR red][/COLOR]</title>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/anisesl2/wizard/master/2</externallink>
 <thumbnail>https://i.imgur.com/LNZ4s5I.jpg</thumbnail>
 <fanart>https://i.imgur.com/RLsJ67J.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR green]ON [/COLOR] Limitada + xxx [COLOR blue] 3[/COLOR] [COLOR green][/COLOR]</title>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/anisesl2/wizard/master/3</externallink>
-<thumbnail>https://i.imgur.com/LNZ4s5I.jpg</thumbnail>
-<fanart>https://i.imgur.com/RLsJ67J.jpg</fanart>
-</item>
 
 <item>
 <title>[COLOR green]ON [/COLOR] Limitada[COLOR blue] 4[/COLOR] [COLOR green][/COLOR]</title>
@@ -59,6 +52,14 @@
 <title>[COLOR green]ON [/COLOR] Limitada[COLOR blue] 7[/COLOR] [COLOR green][/COLOR]</title>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/anisesl2/wizard/master/7</externallink>
+<thumbnail>https://i.imgur.com/LNZ4s5I.jpg</thumbnail>
+<fanart>https://i.imgur.com/RLsJ67J.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]ON [/COLOR] Limitada[COLOR blue] 8[/COLOR] [COLOR green][/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/anisesl2/wizard/master/8</externallink>
 <thumbnail>https://i.imgur.com/LNZ4s5I.jpg</thumbnail>
 <fanart>https://i.imgur.com/RLsJ67J.jpg</fanart>
 </item>
