@@ -1,65 +1,10 @@
   ˂?xml version=″1.0″ encoding=″standalone=″yes″?>
 
 <item>
-<title> [COLOR blue]Bienvenidos cambia de lista si no le carga[/COLOR] [COLOR blue][/COLOR]</title>
+<title> [COLOR blue]VOLVEMOS DIA 14[/COLOR] [COLOR blue][/COLOR]</title>
 <link>http://ignoreme</link>
 <urlsolve>https://www.youtube.com/watch?v=b69ca1fJf4A/<urlsolve>
 <externallink></externallink>
-<thumbnail>https://i.imgur.com/LNZ4s5I.jpg</thumbnail>
-<fanart>https://i.imgur.com/RLsJ67J.jpg</fanart>
-</item>
-
-<item>
-<title>[B][COLOR darkorange]Contenido publico en internet[/COLOR][/B]</title>
-<link>$doregex[makelist]</link>
-
-
-
-<item>
-<title>[COLOR green]ON [/COLOR] Sin Limites[COLOR blue] TDT[/COLOR] [COLOR green][/COLOR]</title>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/anisesl2/wizard/master/2</externallink>
-<thumbnail>https://i.imgur.com/LNZ4s5I.jpg</thumbnail>
-<fanart>https://i.imgur.com/RLsJ67J.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLOR green]ON [/COLOR] Limitada[COLOR blue] 4[/COLOR] [COLOR green][/COLOR]</title>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/anisesl2/wizard/master/4</externallink>
-<thumbnail>https://i.imgur.com/LNZ4s5I.jpg</thumbnail>
-<fanart>https://i.imgur.com/RLsJ67J.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR green]ON [/COLOR] Limitada[COLOR blue] 5[/COLOR] [COLOR green][/COLOR]</title>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/anisesl2/wizard/master/5</externallink>
-<thumbnail>https://i.imgur.com/LNZ4s5I.jpg</thumbnail>
-<fanart>https://i.imgur.com/RLsJ67J.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR green]ON [/COLOR] Limitada[COLOR blue] 6[/COLOR] [COLOR green][/COLOR]</title>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/anisesl2/wizard/master/6</externallink>
-<thumbnail>https://i.imgur.com/LNZ4s5I.jpg</thumbnail>
-<fanart>https://i.imgur.com/RLsJ67J.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR green]ON [/COLOR] Limitada[COLOR blue] 7[/COLOR] [COLOR green][/COLOR]</title>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/anisesl2/wizard/master/7</externallink>
-<thumbnail>https://i.imgur.com/LNZ4s5I.jpg</thumbnail>
-<fanart>https://i.imgur.com/RLsJ67J.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR green]ON [/COLOR] Limitada[COLOR blue] 8[/COLOR] [COLOR green][/COLOR]</title>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/anisesl2/wizard/master/8</externallink>
 <thumbnail>https://i.imgur.com/LNZ4s5I.jpg</thumbnail>
 <fanart>https://i.imgur.com/RLsJ67J.jpg</fanart>
 </item>
