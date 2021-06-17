@@ -10,7 +10,7 @@
 </item>
 
 <item>
-<title>[B][COLOR darkorange]Contenido publico en internet[/COLOR][/B]</title>
+<title>[B][COLOR darkorange]Usa la lista TDT para canales de antena[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 
 
