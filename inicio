@@ -10,7 +10,7 @@
 </item>
 
 <item>
-<title>[B][COLOR darkorange]Usa la lista TDT para canales de antena[/COLOR][/B]</title>
+<title>[B][COLOR darkorange]Si se te para usa la calidad HEVC en los canales[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 
 
