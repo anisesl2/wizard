@@ -10,7 +10,7 @@
 </item>
 
 <item>
-<title>[B][COLOR yelow]Parece que las compañias han bloqueado el acceso tardare unos dias en repararlo gracias[/COLOR][/B]</title>
+<title>[B][COLOR yelow]Posible bloqueo de compañía en algunos clintes si no te carga nada escribeme[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 
 <item>
@@ -26,4 +26,42 @@
 </item>
 
 
+<item>
+<title>[COLOR green]ON [/COLOR] Limitada[COLOR blue] 4[/COLOR] [COLOR green][/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/anisesl2/wizard/master/4</externallink>
+<thumbnail>https://i.imgur.com/LNZ4s5I.jpg</thumbnail>
+<fanart>https://i.imgur.com/RLsJ67J.jpg</fanart>
+</item>
 
+<item>
+<title>[COLOR green]ON [/COLOR] Limitada[COLOR blue] 5[/COLOR] [COLOR green][/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/anisesl2/wizard/master/5</externallink>
+<thumbnail>https://i.imgur.com/LNZ4s5I.jpg</thumbnail>
+<fanart>https://i.imgur.com/RLsJ67J.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]ON [/COLOR] Limitada[COLOR blue] 6[/COLOR] [COLOR green][/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/anisesl2/wizard/master/6</externallink>
+<thumbnail>https://i.imgur.com/LNZ4s5I.jpg</thumbnail>
+<fanart>https://i.imgur.com/RLsJ67J.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]ON [/COLOR] Limitada[COLOR blue] 7[/COLOR] [COLOR green][/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/anisesl2/wizard/master/7</externallink>
+<thumbnail>https://i.imgur.com/LNZ4s5I.jpg</thumbnail>
+<fanart>https://i.imgur.com/RLsJ67J.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]ON [/COLOR] Limitada[COLOR blue] 8[/COLOR] [COLOR green][/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/anisesl2/wizard/master/8</externallink>
+<thumbnail>https://i.imgur.com/LNZ4s5I.jpg</thumbnail>
+<fanart>https://i.imgur.com/RLsJ67J.jpg</fanart>
+</item>
